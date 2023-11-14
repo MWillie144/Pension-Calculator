@@ -1,5 +1,4 @@
 # Matthew Willie
-# Final Exam pg 346 ex 3
 
 from tkinter import *
 
